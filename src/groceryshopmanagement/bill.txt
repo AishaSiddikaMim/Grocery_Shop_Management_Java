@@ -1,0 +1,23 @@
+Sugar
+40.0
+Rice
+50.0
+Total amount180.0Sugar
+2.0
+Milk
+5.0
+Total amount21.0Sugar
+2.0
+Rice
+3.0
+Spices
+4.0
+Salt
+5.0
+Milk
+5.0
+Total amount33.0Salt
+44.0
+Milk
+44.0
+Total amount484.0
